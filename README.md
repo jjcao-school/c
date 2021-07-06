@@ -16,10 +16,7 @@ This is an introductory course to the C++ programming language, including C prog
 - Textbook: There is no requirement to buy a textbook.
 
 ## Schedule
-- [00_introduction](to be updated)
-- <a href="https://github.com/jjcao/cPlusPlus/blob/gh-pages/_powerpoints/00_Introduction.pdf?raw=true">00_Introduction</a>;<br/>
-    <a href="https://github.com/jjcao/cPlusPlus/blob/gh-pages/_powerpoints/lab01_IDE_VC_Win32ConsoleApplication.pdf?raw=true">lab01_IDE_VC_Win32ConsoleApplication</a>;   <br/> 
-    <a href="https://github.com/jjcao/cPlusPlus/blob/gh-pages/_powerpoints/week2-c2cpp.pdf?raw=true">week2-c2cpp</a>;    
+- [00_introduction](to be updated)   
 
 ## Homework
 - [hw01_BasicDynamicArray_function](https://github.com/jjcao/cPlusPlus/blob/gh-pages/_powerpoints/hw01_BasicDynamicArray_function.pdf?raw=true)
