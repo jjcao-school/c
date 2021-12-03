@@ -24,6 +24,23 @@ This is an introductory course to the C++ programming language, including C prog
 - [hw03_EfficientDynamicArray](https://github.com/jjcao/cPlusPlus/blob/gh-pages/_powerpoints/hw03_EfficientDynamicArray.pdf?raw=true), [作业三的基础代码]()
 - [hw04_TemplateDynamicArray](https://github.com/jjcao/cPlusPlus/blob/gh-pages/_powerpoints/hw04_TemplateDynamicArray.pdf?raw=true)
 
+## Tools
+- [Online IDE 2: cpp.sh](http://cpp.sh)
+- [Online IDE 1: ideone](http://ideone.com)
+- 工具: [Visual C++代码打包工具, 可以自行调整](https://github.com/jjcao/jjcao_code/blob/head/packing.bat)
+ <!--
+- Online IDE: [Processing](https://processing.org), develop and display visualization online.
+ 
+- [Online Problemset, LeetCode](https://leetcode.com/problemset) 高级，不适合本课
+  
+- [北大课件](https://github.com/chiuchiuuu/programming-and-algorithm)
+- [北大练习](http://cxsjsxmooc.openjudge.cn/test) 失效
+-->  
+
+ <!--
+<li>[总结]: <a href="https://blog.csdn.net/LF_2016/article/details/52434575">C++知识体系</a>, 
+    总结的很好，包括一些高级内容.</li>
+-->
 
 ## References
 - [books, dictionary]: 三本知识全面的书 **[1] c++ primer, 5th version**, [2] The C++ Programming Language (more advance than [1]), [3] The C++ Standard Library – A Tutorial and Reference
@@ -31,8 +48,6 @@ This is an introductory course to the C++ programming language, including C prog
 - **[online course & IDE]: [cpp在线中文教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)，包括主流操作系统下g++和Visual C++的设置. 提供在线编译运行，可见编译错误提示，程序输出等。**
 
 - [online course & IDE](https://www.dotcpp.com),大量练习题，在线提交，可以获取3种状态：编译失败，运行结果错误，成功。
-
-- [Online IDE 1: ideone](http://ideone.com), [Online IDE 2: cpp.sh](http://cpp.sh)
 
 - [online course]: [cpp for school](http://www.cppforschool.com/), simpler and with assignments, projects, quiz and papers. A cool start point. 广告有点多
 
@@ -51,21 +66,4 @@ This is an introductory course to the C++ programming language, including C prog
 
 - [books, tutorial]: 两本教程式的书[1] Paul Deitel, Deitel Harvey. C++ How to Programing, [2] Sams Teach Yourself C++ in One Hour a Day
 - [book]: C++编程关键路径—程序员求职指南
--->
-
-## Resources
- <!--
-- Online IDE: [Processing](https://processing.org), develop and display visualization online.
- 
-- [Online Problemset, LeetCode](https://leetcode.com/problemset) 高级，不适合本课
-  
-- [北大课件](https://github.com/chiuchiuuu/programming-and-algorithm)
-- [北大练习](http://cxsjsxmooc.openjudge.cn/test) 失效
--->  
-
-- 工具: [Visual C++代码打包工具, 可以自行调整](https://github.com/jjcao/jjcao_code/blob/head/packing.bat)
-
- <!--
-<li>[总结]: <a href="https://blog.csdn.net/LF_2016/article/details/52434575">C++知识体系</a>, 
-    总结的很好，包括一些高级内容.</li>
 -->
