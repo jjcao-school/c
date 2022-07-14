@@ -1,4 +1,4 @@
-# c++ programming 2021 @ dlut
+# c++ programming 2022 @ dlut
 When human beings acquired language, we learned not just how to listen but how to speak. When we gained literacy, we learned not just how to read but how to write. And as we move into an increasingly digital reality, we must learn not just how to use programs but to make them.
 
 In the emerging, highly programmed landscape ahead, you will either create the software or you will be the software. It's really that simple: Program, or be programmed. Choose the former, and you gain access to the control panel of civilization. Choose the latter, and it could be the last real choice you get to make.
@@ -43,7 +43,10 @@ This is an introductory course to the C++ programming language, including C prog
 -->
 
 ## References
-- [books, dictionary]: 三本知识全面的书 **[1] c++ primer, 5th version**, [2] The C++ Programming Language (more advance than [1]), [3] The C++ Standard Library – A Tutorial and Reference
+- [books, dictionary] 三本知识全面的书 
+- **[1] c++ primer, 5th version**, 
+- [2] The C++ Programming Language (more advance than [1]), 
+- [3] The C++ Standard Library – A Tutorial and Reference
 
 - **[online course & IDE]: [cpp在线中文教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)，包括主流操作系统下g++和Visual C++的设置. 提供在线编译运行，可见编译错误提示，程序输出等。**
 
@@ -58,12 +61,16 @@ This is an introductory course to the C++ programming language, including C prog
 
 - [online course]: [Intermediate Programming - Spring 2021 @ jhu by Misha](https://jhu-ip.github.io/cs220-sp21/)
 
-<!--
-- [video course]: 北京大学 c++程序设计 @ coursera. 难度介于cpp for school和LearnCpp.com之间，适合初学者</li>
+
+- [video course]: [Coursera] 北京大学 C++程序设计 @ bilibili. 难度介于cpp for school和LearnCpp.com之间，适合初学者
+- [video course]: Python语言基础与应用 北京大学 陈斌 @ bilibili
+- [video course & book] 数据结构与算法Python版-北京大学-陈斌 @ bilibili
+  
+- [books, tutorial] 两本教程式的书
+- [1] Paul Deitel, Deitel Harvey. C++ How to Programing, 
+- [2] Sams Teach Yourself C++ in One Hour a Day
 - 
+<!--
 - **[online course & IDE]: [w3cschool for c++](https://www.w3cschool.cn/cpp/), 成功有输出，失败无提示，速度慢，2021**
-
-
-- [books, tutorial]: 两本教程式的书[1] Paul Deitel, Deitel Harvey. C++ How to Programing, [2] Sams Teach Yourself C++ in One Hour a Day
 - [book]: C++编程关键路径—程序员求职指南
 -->
