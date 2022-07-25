@@ -16,10 +16,10 @@ This is an introductory course to the C++ programming language, including C prog
 - Textbook: There is no requirement to buy a textbook.
 
 ## Schedule
-- [00_introduction](../c/sliders/00_Introduction.pdf) 
-- [00_01_helloworld_in_details](../c/sliders/00_01_helloworld_in_details.pdf)  
-- [windows下的c++开发环境安装](blob/main/sliders/vscode_c%2B%2B_windows_setup.pdf)
-- [lab01_IDE_vscode_helloworld](../c/sliders/lab01_IDE_vscode_helloworld.pdf)
+- [00_introduction](sliders/00_Introduction.pdf) 
+- [00_01_helloworld_in_details](sliders/00_01_helloworld_in_details.pdf)  
+- [windows下的c++开发环境安装](sliders/vscode_c%2B%2B_windows_setup.pdf)
+- [lab01_IDE_vscode_helloworld](sliders/lab01_IDE_vscode_helloworld.pdf)
 
 ## Homework
 - [hw01_BasicDynamicArray_function](https://github.com/jjcao/cPlusPlus/blob/gh-pages/_powerpoints/hw01_BasicDynamicArray_function.pdf?raw=true)
