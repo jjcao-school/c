@@ -18,7 +18,7 @@ This is an introductory course to the C++ programming language, including C prog
 ## Schedule
 - [00_introduction](../c/sliders/00_Introduction.pdf) 
 - [00_01_helloworld_in_details](../c/sliders/00_01_helloworld_in_details.pdf)  
-- [windows下的c++开发环境安装](../c/sliders/vscode_c++_windows_setup.pdf)
+- [windows下的c++开发环境安装](blob/main/sliders/vscode_c%2B%2B_windows_setup.pdf)
 - [lab01_IDE_vscode_helloworld](../c/sliders/lab01_IDE_vscode_helloworld.pdf)
 
 ## Homework
