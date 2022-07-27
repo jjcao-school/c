@@ -2,6 +2,7 @@
 using namespace std;	
 void elseif()
 {
+    int a(10);
     int grade (50);
 
     if (grade < 60) {
@@ -44,7 +45,12 @@ void switch_fun()
 }
 int main() 
 {
-	//elseif();
+    int a(0);
+	elseif();
+
+
+
+    
     switch_fun();
     return 0;
 }
