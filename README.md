@@ -17,10 +17,36 @@ This is an introductory course to the C++ programming language, including C prog
 
 ## Schedule
 - [00_introduction](sliders/00_Introduction.pdf) 
-- [00_01_helloworld_in_details](sliders/00_01_helloworld_in_details.pdf)  
 - [开发环境安装vscode for python and c++](sliders/VSCode_for_Python_cplus.pdf)
+- [00_01_helloworld_in_details](sliders/00_01_helloworld_in_details.pdf)  
+- [00_02_check](sliders/00_02_check.pdf)
+- [00_03_Variables](sliders/00_02_check.pdf)
+- [00_04_flow control](sliders/00_02_check.pdf)
+- 
+- [01_01_interact](sliders/01_01_interact.pdf)
 - [lab01_IDE_vscode_helloworld](sliders/lab01_IDE_vscode_helloworld.pdf)
+- [01_02_functions](sliders/01_02_functions.pdf)
+- [01_03_references](sliders/01_03_references.pdf)
+- [01_04_pointers](sliders/01_04_pointers.pdf)
+- [01_05_array_list_vectors](sliders/01_05_array_list_vectors.pdf)
+- [lab02_functions_sorting](sliders/lab02_functions_sorting.pdf)
+- [01_06_Tuples_Dictionaries_str](sliders/01_06_Tuples_Dictionaries_str.pdf)
+- [01_07_pointers_to_functions](sliders/01_07_pointers_to_functions.pdf)
+- [01_09_practice](sliders/01_09_practice.pdf)
+- [01_10_Supplement](sliders/01_10_Supplement.pdf)
+- 
+- [02_01_oo](sliders/02_01_oo.pdf)
+- [02_02_classes](sliders/02_02_classes.pdf)
+- [02_03_classes_rest](sliders/02_03_classes_rest.pdf)
+- [02_04_constructors_destructors](sliders/02_04_constructors_destructors.pdf)
+- [02_05_Static_Members_Friends](sliders/02_05_Static_Members_Friends.pdf)
+- [02_06_operator1](sliders/03_01_operator1.pdf)
+- [02_07_operator2](sliders/03_02_operator2.pdf)
+- [02_08_Inheritance1](sliders/02_08_Inheritance1.pdf)
+- [02_09_Inheritance2](sliders/02_09_Inheritance2.pdf)
+- [02_10_Polymorphism](sliders/02_10_Polymorphism.pdf)
 
+- 
 ## Homework
 - [hw01_BasicDynamicArray_function](https://github.com/jjcao/cPlusPlus/blob/gh-pages/_powerpoints/hw01_BasicDynamicArray_function.pdf?raw=true)
 - [hw02_BasicDynamicArray_class](https://github.com/jjcao/cPlusPlus/blob/gh-pages/_powerpoints/hw02_BasicDynamicArray_class.pdf?raw=true)
@@ -41,6 +67,7 @@ This is an introductory course to the C++ programming language, including C prog
 - 
 ## Python Courses
 - [learnpython](https://www.learnpython.org/)
+- [algorithm and datastructure in Python & C++](https://www.programiz.com/dsa/algorithm)
 - Python语言基础与应用 北京大学 陈斌, video @ bilibili
 - 数据结构与算法Python版-北京大学-陈斌, video @ bilibili
 - 

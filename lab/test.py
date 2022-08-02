@@ -1,11 +1,8 @@
-astring = "Hello world!"
-print(len(astring))#12
-print(astring.index("o"))#4
-print(astring.count("l"))#3
-print(astring[3:7]) #lo w
-print(astring[3:7:2])# len of it is 2
-print(astring[::-1])
-print(astring.lower())
-print(astring.startswith("Hello"))
-print(astring.endswith("asdfasdfasdf"))
-afewwords = astring.split(" ")
+total = 0; # This is global variable. 
+def sum( arg1, arg2 ): # Add both the parameters and return them." 
+    total = arg1 + arg2 # Here total is local variable. 
+    print("Inside the function local total : {}".format(total))
+    return total 
+# Now you can call sum function 
+sum( 10, 20 )
+print("Outside the function global total : {}".format(total))

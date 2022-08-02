@@ -6,6 +6,13 @@ using namespace std;
 // myarray = { 9, 8, 7 }; // okay, elements 3 and 4 are set to zero!
 //std::array<int, 5> myarray{ 0, 1, 2, 3, 4}; 
 
+void init()
+{
+    char arr1[10];
+    int arr2[2] = {1, 2};
+    double arr3[] = {1.2, 3.3};
+
+}
 void printSize(int array[]){
     int* parr; int& arr=array[0];
     cout << typeid(array).name() << ": " << sizeof(array) << endl;
@@ -13,6 +20,17 @@ void printSize(int array[]){
     cout << typeid(arr).name() << ": " << sizeof(arr) << endl;
 }
 
+void reserve()
+{
+    vector<int> intvector;
+    // intvector.reserve(50);
+
+    for (int i=0; i<50; i++){
+        intvector.push_back(i*i);
+        cout << intvector[i] << endl;
+        cout << "capacity: " << intvector.capacity() << endl;
+    }
+}
 // Demonstrates how in iterating outside of an arry in C++, can change data in other places
 // not work in my setting
 int danger(){
@@ -37,11 +55,3 @@ int main(){
     return 0;
 }
 
-    vector<int> intvector;
-    // without intvector.reserve(50);
-
-    for (int i=0; i<50; i++){
-        intvector.push_back(i*i);
-        cout << intvector[i] << endl;
-        cout << "capacity: " << intvector.capacity() << endl;
-    }
