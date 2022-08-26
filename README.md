@@ -16,7 +16,7 @@ This is an introductory course to the C++ programming language, including C prog
 - Textbook: There is no requirement to buy a textbook.
 
 ## Schedule
-- [00_introduction](sliders/00_Introduction.pdf) 
+- [00_introduction](sliders/00_00_Introduction.pdf) 
 - [开发环境安装vscode for python and c++](sliders/VSCode_for_Python_cplus.pdf)
 - [00_01_helloworld_in_details](sliders/00_01_helloworld_in_details.pdf)  
 - [00_02_check](sliders/00_02_check.pdf)
@@ -61,13 +61,16 @@ This is an introductory course to the C++ programming language, including C prog
 - [5] Sams Teach Yourself C++ in One Hour a Day. [教程式, simple]
 
 ## Python Books
+<!--
 - Python Crash Course, Eric Matthes, 2023, 3rd Edition
-- Python Crash Course, Eric Matthes, 2019, 2nd Edition
 - Python编程从入门到实践: [美]埃里克·马瑟斯, 2016。Python Crash Course的1st Edition的中译本。
-- 
+-->
+- Python Crash Course, Eric Matthes, 2019, 2nd Edition，排名第一，但是我感觉没有下面这本好。
+- Python Basics_ A Practical Introduction to Python 3-2021. 
 ## Python Courses
 - [learnpython](https://www.learnpython.org/)
 - [algorithm and datastructure in Python & C++](https://www.programiz.com/dsa/algorithm)
+- [Python Object Oriented Programming, 好内容,有点乱](https://pynative.com/python-encapsulation/)
 - Python语言基础与应用 北京大学 陈斌, video @ bilibili
 - 数据结构与算法Python版-北京大学-陈斌, video @ bilibili
 - 
