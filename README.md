@@ -1,4 +1,4 @@
-# c++ programming 2022 @ dlut
+# c++ programming 2023 @ dlut
 When human beings acquired language, we learned not just how to listen but how to speak. When we gained literacy, we learned not just how to read but how to write. And as we move into an increasingly digital reality, we must learn not just how to use programs but to make them.
 
 In the emerging, highly programmed landscape ahead, you will either create the software or you will be the software. It's really that simple: Program, or be programmed. Choose the former, and you gain access to the control panel of civilization. Choose the latter, and it could be the last real choice you get to make.
@@ -7,10 +7,11 @@ In the emerging, highly programmed landscape ahead, you will either create the s
 
 ## Introduction
 ### Overview
-This is an introductory course to the C++ programming language, including C programming language. 
-    It is intended for those with little programming background. 
-    This course is offered during the Short-Term, which is a special 4-week term at DUT. It would be a 56 hours course (32 talks + 24 hands-on labs). 
-    Students will learn how to use C++ to implment some simple algorithms, datastructures, GUI, and interesting missions in image processing and computer graphics.
+This is an introductory course to the C++ programming language, including some review of the Python programming language. 
+
+It is intended for those with little programming background. This course is offered during the Short-Term, which is a special 4-week term at DUT. It would be a 56 hours course (32 talks + 24 hands-on labs). 
+    
+Students will learn how to use C++ to implment some simple algorithms, datastructures, GUI, and interesting missions in image processing and computer graphics.
 
 - Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn; 
 - Textbook: There is no requirement to buy a textbook.
@@ -46,7 +47,9 @@ This is an introductory course to the C++ programming language, including C prog
 - [02_09_Inheritance2](sliders/02_09_Inheritance2.pdf)
 - [02_10_Polymorphism](sliders/02_10_Polymorphism.pdf)
 
-- 
+## 上机练习
+...
+
 ## Homework
 - [hw01_BasicDynamicArray_function](https://github.com/jjcao/cPlusPlus/blob/gh-pages/_powerpoints/hw01_BasicDynamicArray_function.pdf?raw=true)
 - [hw02_BasicDynamicArray_class](https://github.com/jjcao/cPlusPlus/blob/gh-pages/_powerpoints/hw02_BasicDynamicArray_class.pdf?raw=true)
@@ -77,7 +80,7 @@ This is an introductory course to the C++ programming language, including C prog
 ## C++ Courses
 - **[cpp4python](https://runestone.academy/ns/books/published/cpp4python), cool!!!!**
 - **[online course & IDE]: [cpp在线中文教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)，包括主流操作系统下g++和Visual C++的设置. 提供在线编译运行，可见编译错误提示，程序输出等。**
-- [online course & IDE](https://www.dotcpp.com),大量练习题，在线提交，可以获取3种状态：编译失败，运行结果错误，成功。
+- [online course & IDE](https://www.dotcpp.com),dotcpp, 朋友网站，推荐一下。大量练习题，在线提交，可以获取3种状态：编译失败，运行结果错误，成功。
 - [cpp for school](http://www.cppforschool.com/), simpler and with assignments, projects, quiz and papers. A cool start point. 广告有点多
 - [LearnCpp.com](http://www.learncpp.com/), more detail explanations than cpp for school. Not for a novice, best for review.
 - [Intermediate Programming - Spring 2021 @ jhu by Misha](https://jhu-ip.github.io/cs220-sp21/)
