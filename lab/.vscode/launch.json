@@ -9,7 +9,7 @@
         "type": "cppdbg",
         "request": "launch",
         "program": "${fileDirname}/bin/${fileBasenameNoExtension}",
-        "args": [],
+        "args": ["-c", "Release"],
         // "args": [
         //     "-c",
         //     "Release" 

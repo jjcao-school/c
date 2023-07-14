@@ -4,18 +4,23 @@ using namespace std;
 
 int main()
 {
-    int a[]={3,4};
-    int b[2]={3,4};
-    int ce[2];
-    //int *p[] = {new int[5]};
-    int *pp = new int[5];
+    int i = 3;
+    int* p= &i;
+    *p = 4;
+    cout << i << endl;
 
-    double d(5.5);
-    float f(5.5);
-    double *ptr = &d;
-    int n = d;
-    std::cout << n << endl;
-    std::cout << ptr <<',' << *ptr<< endl;
+    // int a[]={3,4};
+    // int b[2]={3,4};
+    // int ce[2];
+    // //int *p[] = {new int[5]};
+    // int *pp = new int[5];
+
+    // double d(5.5);
+    // float f(5.5);
+    // double *ptr = &d;
+    // int n = d;
+    // std::cout << n << endl;
+    // std::cout << ptr <<',' << *ptr<< endl;
     return 0;
 }
 

@@ -9,11 +9,11 @@
         "type": "cppdbg",
         "request": "launch",
         "program": "${fileDirname}/bin/${fileBasenameNoExtension}",
-        "args": [],
-        // "args": [
-        //     "-c",
-        //     "Release" 
-        // ],
+        // "args": [],
+        "args": [
+            "-c",
+            "Release" 
+        ],
         "stopAtEntry": false,
         "cwd": "${fileDirname}/bin",
         "environment": [],
